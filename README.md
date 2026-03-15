@@ -1,5 +1,5 @@
 # Bayesian Financial Risk Agent & Market Sentry
-
+# Internship / Capstone Project (AI/ML TRACK)(MAQ SOFTWARE)
 A 6-phase quantitative pipeline combining **Bayesian statistics**, **GARCH volatility modelling**, **LSTM machine learning**, and **Retrieval-Augmented Generation (RAG)** to produce daily risk reports with hedging recommendations.
 
 ---
